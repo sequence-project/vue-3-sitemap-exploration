@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.8.4",
     "vue": "^3.5.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.2",
-    "vite": "^6.3.1"
+    "vite": "^6.3.1",
+    "vite-plugin-sitemap": "^0.7.1"
   }
 }
